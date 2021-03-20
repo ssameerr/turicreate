@@ -1,4 +1,4 @@
-Jinja2==2.8
+Jinja2==2.11.3
 argparse==1.2.1
 cython==0.24
 decorator==4.1.2
