@@ -1,7 +1,7 @@
 beautifulsoup4
 certifi==2015.04.28
 gensim==0.12.2
-nltk==3.2
+nltk==3.6
 pytest==3.2.5
 pandas
 pyscreenshot==0.4
