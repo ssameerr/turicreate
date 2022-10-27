@@ -15,5 +15,5 @@ scipy==0.17.0
 six==1.10.0
 statsmodels==0.8.0
 wheel==0.29.0
-mxnet==0.11
+mxnet==1.9.1
 coremltools==0.6.3
