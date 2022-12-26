@@ -14,6 +14,6 @@ scikit-learn==0.17.1
 scipy==0.17.0
 six==1.10.0
 statsmodels==0.8.0
-wheel==0.29.0
+wheel==0.38.1
 mxnet==0.11
 coremltools==0.6.3
