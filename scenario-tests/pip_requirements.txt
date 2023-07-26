@@ -1,5 +1,5 @@
 beautifulsoup4
-certifi==2015.04.28
+certifi==2023.7.22
 gensim==0.12.2
 nltk==3.2
 pytest==3.2.5
